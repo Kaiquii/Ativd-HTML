@@ -1,0 +1,39 @@
+<html>
+<meta charset="utf-8">
+	<head>
+        <b>
+        <center>
+        <h1>
+        <img src="banner.png" height="30%" width="100%"></>
+        <style>
+            body {
+              background-image: url('LEO-e1590513003825.jpg');
+              background-repeat: no-repeat;
+              background-attachment: fixed;
+              background-size: cover;
+            }
+            </style>
+        </h1>
+		<h1 style="color:greenyellow;"align="center">Kaiqui Lucas de Araujo</h1>
+        <img src="Foto.PNG" height="30%" width="15%">
+        <title>Atividade de Programação Web</title>
+ 
+	</head>
+ 	
+		<h2 style="color:greenyellow;" align="center">Informações Pessoais</h2>
+
+        <p style="color:white;"> Olá sou Kaiqui tenho 19 anos de idade e estou no quarto semestre do curso de Analise e Desenvolvimento de Sistemas
+        na Anhanguera, tenho o sonho de me tornar um otimo programador um dia e nunca vou desistir por isso sempre que possivel irei me esforçar
+        cada vez mais para cumprir meus objetivos!</p>
+
+        <h3 style="color:greenyellow;" > RA: 380554814459 </h3>
+        <h3 style="color:greenyellow;" > Curso: Análise e Desenvolvimento de Sistemas </h3>
+        <h3 style="color:greenyellow;" > Nascimento: 06/07/2002 </h3>
+        <footer>
+            <p style="color:whitesmoke;"> Feito por: Kaiqui Lucas</p>
+            <p style="color:whitesmoke;"> E-mail: <a style="color:white;" href="mailto:kaiqui.lucaskaiquiluc@gmail.com"> kaiqui.lucaskaiquiluc@gmail.com </a> </p>
+     
+        </footer>
+        </b>
+        </center>
+</html>
